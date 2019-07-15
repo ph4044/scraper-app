@@ -1,0 +1,28 @@
+{
+  "name": "scraper-app",
+  "version": "1.0.0",
+  "description": "news scraper app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ph4044/scraper-app.git"
+  },
+  "author": "Philip Hu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ph4044/scraper-app/issues"
+  },
+  "homepage": "https://github.com/ph4044/scraper-app#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "body-parser": "^1.19.0",
+    "cheerio": "^1.0.0-rc.3",
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0",
+    "mongoose": "^5.6.3",
+    "morgan": "^1.9.1"
+  }
+}
