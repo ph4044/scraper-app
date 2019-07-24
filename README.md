@@ -10,5 +10,8 @@ scraper-app scrapes the business news page of The Citizen, a weekly newspaper se
 3. In Terminal/Bash, in the app's root directory, enter "node server.js".
 4. In browser, navigate to http://localhost3000.
 
+## Screen Shots
+![Image of home-page](app-capture.PNG)
+
 ## Author
 Philip Hu

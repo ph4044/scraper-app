@@ -3,7 +3,6 @@ body {
 }
 
 h1{color: green
-
 }
 
 #wrapper {
@@ -13,7 +12,8 @@ h1{color: green
   padding-top: 5%;
 }
 #results {
-    font-size:20px;
+    font-size:16px;
+    font-style:italic;
   }
 
 #articles {
@@ -38,4 +38,12 @@ input {
 textarea {
   height: 200px;
   font-size: 18px;
+}
+
+button{
+    margin-top:10px;
+}
+
+h3 {
+    margin-left:15px;
 }
